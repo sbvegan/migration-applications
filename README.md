@@ -9,10 +9,10 @@ _Note: starting with optimism because that's my prefered L2_
 ## Process
 
 - [ ] Read the [protocol-specs](https://github.com/ethereum-optimism/optimism/tree/develop/specs) to understand how transactions on L1 can be executed on L2. Is it even possible to do this in one transaction on L1 and have the assets deposited directly into L2 protocols?
-  - [ ] [Introduction](https://github.com/ethereum-optimism/optimism/blob/develop/specs/introduction.md)
-  - [ ] [Overview](https://github.com/ethereum-optimism/optimism/blob/develop/specs/overview.md)
-  - [ ] [Deposits](https://github.com/ethereum-optimism/optimism/blob/develop/specs/deposits.md)
-  - [ ] [Withdrawals](https://github.com/ethereum-optimism/optimism/blob/develop/specs/withdrawals.md)
+  - [X] [Introduction](https://github.com/ethereum-optimism/optimism/blob/develop/specs/introduction.md)
+  - [X] [Overview](https://github.com/ethereum-optimism/optimism/blob/develop/specs/overview.md)
+  - [X] [Deposits](https://github.com/ethereum-optimism/optimism/blob/develop/specs/deposits.md)
+  - [X] [Withdrawals](https://github.com/ethereum-optimism/optimism/blob/develop/specs/withdrawals.md)
   - [ ] [Execution Engine](https://github.com/ethereum-optimism/optimism/blob/develop/specs/exec-engine.md)
   - [ ] [L2 Output Root Proposals](https://github.com/ethereum-optimism/optimism/blob/develop/specs/proposals.md)
   - [ ] [Rollup Node](https://github.com/ethereum-optimism/optimism/blob/develop/specs/rollup-node.md)
@@ -25,3 +25,7 @@ _Note: starting with optimism because that's my prefered L2_
 - [ ] Choose a few protocols to start with (probably the big DeFi applications on Optimism)
 - [ ] Implement the transaction logic for each protocol, test on Goerli, and Mainnet
 - [ ] Build out UI
+
+## Resources
+
+[Interlayer communication](https://github.com/ethereum-optimism/optimism-tutorial/tree/main/cross-dom-comm)
