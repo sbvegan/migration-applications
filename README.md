@@ -21,7 +21,7 @@ _Note: starting with optimism because that's my prefered L2_
   - [ ] [Messengers](https://github.com/ethereum-optimism/optimism/blob/develop/specs/messengers.md)
   - [ ] [Bridges](https://github.com/ethereum-optimism/optimism/blob/develop/specs/bridges.md)
   - [ ] [Predeploys](https://github.com/ethereum-optimism/optimism/blob/develop/specs/predeploys.md)
-- [ ] Complete [Interlayer communication tutorial](https://github.com/ethereum-optimism/optimism-tutorial/tree/main/cross-dom-comm)
+- [X] Complete [Interlayer communication tutorial](https://github.com/ethereum-optimism/optimism-tutorial/tree/main/cross-dom-comm)
 - [ ] Proof on concept: deploy a generic deposit contract on L2 with some trivial logic. Execute transaction on L1.
 - [ ] Choose a few protocols to start with (probably the big DeFi applications on Optimism)
 - [ ] Implement the transaction logic for each protocol, test on Goerli, and Mainnet
